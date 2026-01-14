@@ -1,0 +1,10 @@
+## Interface: 110100
+## Title: Auto Pet Summoner
+## Notes: Automatically summons a random battle/vanity pet every X minutes. Configurable via the AddOns options.
+## Author: V
+## Version: 1.0.7
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: AutoPetDB
+
+AutoPetSummoner.lua
+AutoPetSummoner_Config.lua
